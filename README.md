@@ -2,5 +2,5 @@
 ## Hello World!
 ## To get jar files automatically : 
 #### <dependency>
-##      //
+##      .....
 #### </dependency>
